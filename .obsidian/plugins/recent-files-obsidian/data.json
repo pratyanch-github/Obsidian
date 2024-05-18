@@ -1,28 +1,80 @@
 {
   "recentFiles": [
     {
-      "basename": "Welcome",
-      "path": "Welcome.md"
+      "basename": "sliding window",
+      "path": "DSA/sliding window.md"
     },
     {
-      "basename": "TENSTACK TABLE",
-      "path": "TENSTACK TABLE.md"
+      "basename": "Vivek DP Series-",
+      "path": "DSA/Vivek DP Series-.md"
+    },
+    {
+      "basename": "Ideas",
+      "path": "DSA/Ideas.md"
+    },
+    {
+      "basename": "Pasted image 20240517213555",
+      "path": "Pasted image 20240517213555.png"
+    },
+    {
+      "basename": "Pasted image 20240314102253.png",
+      "path": "Pasted image 20240314102253.png.md"
+    },
+    {
+      "basename": "RTK Query",
+      "path": "Frontend/RTK/RTK Query.md"
     },
     {
       "basename": "redux store namastereact",
-      "path": "redux store namastereact.pdf"
+      "path": "Frontend/RTK/redux store namastereact.pdf"
     },
     {
-      "basename": "Project things",
-      "path": "Climeup/Project things.md"
+      "basename": "Custom BaseQuery func",
+      "path": "Frontend/RTK/Custom BaseQuery func.md"
+    },
+    {
+      "basename": "Conditional Fetching",
+      "path": "Frontend/RTK/Conditional Fetching.md"
+    },
+    {
+      "basename": "catched",
+      "path": "Frontend/RTK/catched.md"
+    },
+    {
+      "basename": "How to Create an Edit form page",
+      "path": "Frontend/React/How to Create an Edit form page.md"
+    },
+    {
+      "basename": "TENSTACK TABLE",
+      "path": "Frontend/MUI/TENSTACK TABLE.md"
+    },
+    {
+      "basename": "Reading List",
+      "path": "Reading List.md"
+    },
+    {
+      "basename": "Offset",
+      "path": "SQL/Offset.md"
+    },
+    {
+      "basename": "Question List",
+      "path": "DSA/Question List.md"
     },
     {
       "basename": "Redux types, slices and endpoints",
       "path": "Climeup/Redux types, slices and endpoints.md"
     },
     {
-      "basename": "Reading List",
-      "path": "Reading List.md"
+      "basename": "Project things",
+      "path": "Climeup/Project things.md"
+    },
+    {
+      "basename": "Welcome",
+      "path": "Welcome.md"
+    },
+    {
+      "basename": "TENSTACK TABLE",
+      "path": "TENSTACK TABLE.md"
     }
   ],
   "omittedPaths": [],

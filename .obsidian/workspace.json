@@ -4,64 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "98b50afff82ad460",
+        "id": "2c10d2cab85ed2fa",
         "type": "tabs",
-        "dimension": 60.84573218480814,
         "children": [
           {
-            "id": "f815a23a4d0a25ae",
+            "id": "1b9766562ee60fa8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "DSA/sliding window.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "20739f6b426982c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TENSTACK TABLE.md",
-                "mode": "source",
-                "source": true
               }
             }
           }
         ],
         "stacked": true
-      },
-      {
-        "id": "97e11aca2bfd98b3",
-        "type": "tabs",
-        "dimension": 39.15426781519186,
-        "children": [
-          {
-            "id": "0d1c715f64b4044a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Climeup/Project things.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "873c4c6b11d22cdb",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214.5,
-    "collapsed": true
+    "width": 279.5
   },
   "right": {
     "id": "69aa8a2e3e04a628",
@@ -136,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "DSA/sliding window.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "DSA/sliding window.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "DSA/sliding window.md"
               }
             }
           }
@@ -199,19 +157,44 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "731fb896995a3c38",
+  "active": "1b9766562ee60fa8",
   "lastOpenFiles": [
+    "DSA/Vivek DP Series-.md",
+    "DSA/Ideas.md",
+    "DSA/sliding window.md",
+    "WhatsApp Image 2024-03-14 at 10.27.58_c2b0f305.jpg",
+    "Road Map to 800k engineer.md",
+    "Pasted image 20240517120438.png",
+    "Pasted image 20240517120359.png",
+    "Pasted image 20240515161221.png",
+    "Pasted image 20240515160937.png",
+    "Pasted image 20240515160853.png",
+    "Pasted image 20240515153944.png",
+    "Pasted image 20240515153911.png",
+    "Pasted image 20240515153245.png",
+    "Pasted image 20240515122805.png",
+    "Nest Js Roadmap-.md",
+    "DSA/Untitled",
+    "Pasted image 20240314102253.png.md",
+    "Frontend/RTK/RTK Query.md",
+    "Frontend/RTK/redux store namastereact.pdf",
+    "Frontend/RTK/Custom BaseQuery func.md",
+    "Frontend/RTK/Conditional Fetching.md",
+    "Frontend/RTK/catched.md",
+    "Frontend/React/How to Create an Edit form page.md",
+    "Frontend/MUI/TENSTACK TABLE.md",
+    "Reading List.md",
+    "SQL/Offset.md",
+    "DSA/Question List.md",
+    "Climeup/Redux types, slices and endpoints.md",
+    "Climeup/Project things.md",
+    "Welcome.md",
     "TENSTACK TABLE.md",
     "redux store namastereact.pdf",
-    "Climeup/Project things.md",
-    "Climeup/Redux types, slices and endpoints.md",
     "Untitled.md",
     "Untitled 1.md",
-    "Reading List.md",
     "Climeup",
-    "Welcome.md",
     "2024-02-16.md",
-    "2024-02-15.md",
-    "image_104.png"
+    "2024-02-15.md"
   ]
 }
