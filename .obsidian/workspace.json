@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1b9766562ee60fa8",
+            "id": "4c6e0120051932e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/sliding window.md",
+                "file": "Personal Projects/tfidf project.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/sliding window.md",
+                "file": "Personal Projects/tfidf project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/sliding window.md",
+                "file": "Personal Projects/tfidf project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/sliding window.md"
+                "file": "Personal Projects/tfidf project.md"
               }
             }
           }
@@ -157,24 +157,35 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "1b9766562ee60fa8",
+  "active": "4c6e0120051932e6",
   "lastOpenFiles": [
+    "Personal Projects/Readme.md",
+    "Personal Projects/tfidf project.md",
+    "README.md",
+    "Untitled.md",
+    "Health.md",
+    "Personal Projects",
+    "Aptitude/Time and work.md",
+    "Pasted image 20240524170254.png",
+    "DSA/Question List.md",
+    "Aptitude",
+    "DSA/questionsSols/minimum set of intervals after adding a new interval.md",
+    "DSA/questionsSols",
+    "DSA/sliding window.md",
     "DSA/Vivek DP Series-.md",
     "DSA/Ideas.md",
-    "DSA/sliding window.md",
+    "Javascript/Calling all apis parrallely.md",
+    "Pasted image 20240518141141.png",
+    "Pasted image 20240518141044.png",
+    "Pasted image 20240518135527.png",
+    "image_127.png",
+    "Pasted image 20240518135508.png",
+    "Pasted image 20240518135501.png",
+    "Pasted image 20240518135418.png",
+    "Pasted image 20240518133926.png",
     "WhatsApp Image 2024-03-14 at 10.27.58_c2b0f305.jpg",
     "Road Map to 800k engineer.md",
-    "Pasted image 20240517120438.png",
-    "Pasted image 20240517120359.png",
-    "Pasted image 20240515161221.png",
-    "Pasted image 20240515160937.png",
-    "Pasted image 20240515160853.png",
-    "Pasted image 20240515153944.png",
-    "Pasted image 20240515153911.png",
-    "Pasted image 20240515153245.png",
-    "Pasted image 20240515122805.png",
     "Nest Js Roadmap-.md",
-    "DSA/Untitled",
     "Pasted image 20240314102253.png.md",
     "Frontend/RTK/RTK Query.md",
     "Frontend/RTK/redux store namastereact.pdf",
@@ -185,16 +196,10 @@
     "Frontend/MUI/TENSTACK TABLE.md",
     "Reading List.md",
     "SQL/Offset.md",
-    "DSA/Question List.md",
     "Climeup/Redux types, slices and endpoints.md",
     "Climeup/Project things.md",
     "Welcome.md",
-    "TENSTACK TABLE.md",
     "redux store namastereact.pdf",
-    "Untitled.md",
-    "Untitled 1.md",
-    "Climeup",
-    "2024-02-16.md",
-    "2024-02-15.md"
+    "Climeup"
   ]
 }

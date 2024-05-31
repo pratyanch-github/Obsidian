@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "tfidf project",
+      "path": "Personal Projects/tfidf project.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Health",
+      "path": "Health.md"
+    },
+    {
+      "basename": "Time and work",
+      "path": "Aptitude/Time and work.md"
+    },
+    {
+      "basename": "Question List",
+      "path": "DSA/Question List.md"
+    },
+    {
+      "basename": "minimum set of intervals after adding a new interval",
+      "path": "DSA/questionsSols/minimum set of intervals after adding a new interval.md"
+    },
+    {
       "basename": "sliding window",
       "path": "DSA/sliding window.md"
     },
@@ -11,6 +35,10 @@
     {
       "basename": "Ideas",
       "path": "DSA/Ideas.md"
+    },
+    {
+      "basename": "Calling all apis parrallely",
+      "path": "Javascript/Calling all apis parrallely.md"
     },
     {
       "basename": "Pasted image 20240517213555",
@@ -55,10 +83,6 @@
     {
       "basename": "Offset",
       "path": "SQL/Offset.md"
-    },
-    {
-      "basename": "Question List",
-      "path": "DSA/Question List.md"
     },
     {
       "basename": "Redux types, slices and endpoints",

@@ -10,3 +10,9 @@ BFS -
 Binary Trees - 
       1. [2331. Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/)
       2. 
+         
+
+ Merge Intervals(MI) - 
+	  1. https://leetcode.com/discuss/interview-question/5187567/de-shaw-oa - MI+BinarySearch+Sorting - [[minimum set of intervals after adding a new interval]]
+	  2. 
+    
