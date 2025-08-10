@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "99e631ed4a6d1c88",
+    "type": "split",
+    "children": [
+      {
+        "id": "978d32966cefa669",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e413de7a0bd4f4fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2025-06-14.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-06-14"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4b28c44f9f9a785",
+    "type": "split",
+    "children": [
+      {
+        "id": "09d1af36d3744e00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "731fb896995a3c38",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f4ccec539e217fd9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e8325bbc5dc173cc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "800e2f24dcfd5a2d",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261.5
+  },
+  "right": {
+    "id": "69aa8a2e3e04a628",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9ace5533e5b4428",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1946dffe0dbe5a8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DSA/BlackBox/rabin crap (string hashing for pattern matching).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for rabin crap (string hashing for pattern matching)"
+            }
+          },
+          {
+            "id": "7731a952f015c322",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DSA/BlackBox/rabin crap (string hashing for pattern matching).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from rabin crap (string hashing for pattern matching)"
+            }
+          },
+          {
+            "id": "ad45abe70f47f343",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3b84b49680cc2c3a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Health/sleep.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of sleep"
+            }
+          },
+          {
+            "id": "196fe7ac92a8dbb6",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "remotely-save:Remotely Save": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false
+    }
+  },
+  "active": "731fb896995a3c38",
+  "lastOpenFiles": [
+    "java/-3. Backend History in JAVA.md",
+    "Daily Notes/2025-06-14.md",
+    "java/-2. Complete Springboot Topics.md",
+    "java/-1. Core Java Topics.md",
+    "Daily Notes/2025-06-04.md",
+    "Linux/README.md",
+    "cses/dp william lin.md",
+    "Pasted image 20250521083405.png",
+    "Daily Notes/2025-05-26.md",
+    "cses/DP.md",
+    "Pasted image 20250517235442.png",
+    "Pasted image 20250517191004.png",
+    "Pasted image 20250517190325.png",
+    "Pasted image 20250517190027.png",
+    "Linux/Linux commands.md",
+    "Daily Notes/2025-05-16.md",
+    "Linux",
+    "Daily Notes/2025-05-12.md",
+    "java/0. Important Springboot Topics.md",
+    "java/1 . Spring Boot Fundamentals.md",
+    "Daily Notes/2025-05-05.md",
+    "DSA/BlackBox/when to user dp, recursion , backtracking.md",
+    "DSA/BlackBox/backtracking.md",
+    "java/2. Sample TODO API.md",
+    "c++/c++ vs java function overriding.md",
+    "java/strings in java.md",
+    "java/java collections.md",
+    "java/Java for C++ programmars.md",
+    "java/ArrayList in java.md",
+    "java/java interview questions.md",
+    "Daily Notes/2025-05-01.md",
+    "Mistakes/Recursive to Iterative.md",
+    "Mistakes",
+    "Untitled",
+    "Computer fundamentals/dbms/DBMS in 5 hours.pdf",
+    "Untitled.canvas",
+    "Health",
+    "{B546F38F-2DEB-4311-A290-33CF64A13356}.png",
+    "{EF05E9A6-49A8-4FDB-9795-5D27A84448CE}.png",
+    "{7305895A-0D5B-4FF1-9EAD-700373A32789}.png",
+    "{1599A1B8-9BED-48D5-887A-ADDAC2C168A3}.png",
+    "{781A8E4F-DE91-4AC2-BC49-AFC9845E66A0}.png",
+    "Computer fundamentals/oops/Low Level Design Notes.pdf",
+    "Personal Projects/Statistics Basics (1).pdf",
+    "reading list",
+    "Climeup/common errors/react errors",
+    "Climeup/common errors"
+  ]
+}

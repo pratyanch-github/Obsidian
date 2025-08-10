@@ -1,104 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "tfidf project",
-      "path": "Personal Projects/tfidf project.md"
+      "basename": "firebase - Copy",
+      "path": "firebase - Copy.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "GIthub",
+      "path": "GIthub.md"
+    },
+    {
+      "basename": "GIthub - Copy",
+      "path": "GIthub - Copy.md"
+    },
+    {
+      "basename": "Health - Copy",
+      "path": "Health - Copy.md"
     },
     {
       "basename": "Health",
       "path": "Health.md"
     },
     {
-      "basename": "Time and work",
-      "path": "Aptitude/Time and work.md"
+      "basename": "I am overcoming depression - Copy",
+      "path": "I am overcoming depression - Copy.md"
     },
     {
-      "basename": "Question List",
-      "path": "DSA/Question List.md"
+      "basename": "I am overcoming depression",
+      "path": "I am overcoming depression.md"
     },
     {
-      "basename": "minimum set of intervals after adding a new interval",
-      "path": "DSA/questionsSols/minimum set of intervals after adding a new interval.md"
+      "basename": "Bike",
+      "path": "Bike.md"
     },
     {
-      "basename": "sliding window",
-      "path": "DSA/sliding window.md"
+      "basename": "sleep",
+      "path": "Health/sleep.md"
     },
     {
-      "basename": "Vivek DP Series-",
-      "path": "DSA/Vivek DP Series-.md"
+      "basename": "2025-08-09",
+      "path": "Daily Notes/2025-08-09.md"
     },
     {
-      "basename": "Ideas",
-      "path": "DSA/Ideas.md"
+      "basename": "Amazon lld questions",
+      "path": "Low Level Design/Amazon lld questions.md"
     },
     {
-      "basename": "Calling all apis parrallely",
-      "path": "Javascript/Calling all apis parrallely.md"
+      "basename": "2025-06-22",
+      "path": "Daily Notes/2025-06-22.md"
     },
     {
-      "basename": "Pasted image 20240517213555",
-      "path": "Pasted image 20240517213555.png"
+      "basename": "2025-06-21",
+      "path": "Daily Notes/2025-06-21.md"
     },
     {
-      "basename": "Pasted image 20240314102253.png",
-      "path": "Pasted image 20240314102253.png.md"
+      "basename": "2025-06-14",
+      "path": "Daily Notes/2025-06-14.md"
     },
     {
-      "basename": "RTK Query",
-      "path": "Frontend/RTK/RTK Query.md"
+      "basename": "-3. Backend History in JAVA",
+      "path": "java/-3. Backend History in JAVA.md"
     },
     {
-      "basename": "redux store namastereact",
-      "path": "Frontend/RTK/redux store namastereact.pdf"
+      "basename": "-2. Complete Springboot Topics",
+      "path": "java/-2. Complete Springboot Topics.md"
     },
     {
-      "basename": "Custom BaseQuery func",
-      "path": "Frontend/RTK/Custom BaseQuery func.md"
+      "basename": "-1. Core Java Topics",
+      "path": "java/-1. Core Java Topics.md"
     },
     {
-      "basename": "Conditional Fetching",
-      "path": "Frontend/RTK/Conditional Fetching.md"
+      "basename": "2025-06-04",
+      "path": "Daily Notes/2025-06-04.md"
     },
     {
-      "basename": "catched",
-      "path": "Frontend/RTK/catched.md"
+      "basename": "README",
+      "path": "Linux/README.md"
     },
     {
-      "basename": "How to Create an Edit form page",
-      "path": "Frontend/React/How to Create an Edit form page.md"
+      "basename": "dp william lin",
+      "path": "cses/dp william lin.md"
     },
     {
-      "basename": "TENSTACK TABLE",
-      "path": "Frontend/MUI/TENSTACK TABLE.md"
+      "basename": "Pasted image 20250521083405",
+      "path": "Pasted image 20250521083405.png"
     },
     {
-      "basename": "Reading List",
-      "path": "Reading List.md"
+      "basename": "2025-05-26",
+      "path": "Daily Notes/2025-05-26.md"
     },
     {
-      "basename": "Offset",
-      "path": "SQL/Offset.md"
+      "basename": "DP",
+      "path": "cses/DP.md"
     },
     {
-      "basename": "Redux types, slices and endpoints",
-      "path": "Climeup/Redux types, slices and endpoints.md"
+      "basename": "Linux commands",
+      "path": "Linux/Linux commands.md"
     },
     {
-      "basename": "Project things",
-      "path": "Climeup/Project things.md"
+      "basename": "2025-05-16",
+      "path": "Daily Notes/2025-05-16.md"
     },
     {
-      "basename": "Welcome",
-      "path": "Welcome.md"
+      "basename": "2025-05-12",
+      "path": "Daily Notes/2025-05-12.md"
     },
     {
-      "basename": "TENSTACK TABLE",
-      "path": "TENSTACK TABLE.md"
+      "basename": "0. Important Springboot Topics",
+      "path": "java/0. Important Springboot Topics.md"
+    },
+    {
+      "basename": "1 . Spring Boot Fundamentals",
+      "path": "java/1 . Spring Boot Fundamentals.md"
+    },
+    {
+      "basename": "2025-05-05",
+      "path": "Daily Notes/2025-05-05.md"
+    },
+    {
+      "basename": "when to user dp, recursion , backtracking",
+      "path": "DSA/BlackBox/when to user dp, recursion , backtracking.md"
+    },
+    {
+      "basename": "backtracking",
+      "path": "DSA/BlackBox/backtracking.md"
+    },
+    {
+      "basename": "2. Sample TODO API",
+      "path": "java/2. Sample TODO API.md"
+    },
+    {
+      "basename": "c++ vs java function overriding",
+      "path": "c++/c++ vs java function overriding.md"
+    },
+    {
+      "basename": "strings in java",
+      "path": "java/strings in java.md"
+    },
+    {
+      "basename": "java collections",
+      "path": "java/java collections.md"
+    },
+    {
+      "basename": "Java for C++ programmars",
+      "path": "java/Java for C++ programmars.md"
+    },
+    {
+      "basename": "java interview questions",
+      "path": "java/java interview questions.md"
+    },
+    {
+      "basename": "2025-05-01",
+      "path": "Daily Notes/2025-05-01.md"
+    },
+    {
+      "basename": "Recursive to Iterative",
+      "path": "Mistakes/Recursive to Iterative.md"
+    },
+    {
+      "basename": "DP Mistakes",
+      "path": "Mistakes/DP Mistakes.md"
+    },
+    {
+      "basename": "2025-04-29",
+      "path": "Daily Notes/2025-04-29.md"
+    },
+    {
+      "basename": "2025-04-26",
+      "path": "Daily Notes/2025-04-26.md"
+    },
+    {
+      "basename": "2025-04-22",
+      "path": "Daily Notes/2025-04-22.md"
+    },
+    {
+      "basename": "2025-04-05",
+      "path": "Daily Notes/2025-04-05.md"
+    },
+    {
+      "basename": "Type Annotation and interfaces",
+      "path": "Typescript/Type Annotation and interfaces.md"
+    },
+    {
+      "basename": "Things to learn - Roadmap",
+      "path": "Typescript/Things to learn - Roadmap.md"
+    },
+    {
+      "basename": "Basic Types",
+      "path": "Typescript/Basic Types.md"
+    },
+    {
+      "basename": "DBMS in 5 hours",
+      "path": "Computer fundamentals/dbms/DBMS in 5 hours.pdf"
+    },
+    {
+      "basename": "DBMS",
+      "path": "Computer fundamentals/dbms/DBMS.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.canvas"
     }
   ],
   "omittedPaths": [],

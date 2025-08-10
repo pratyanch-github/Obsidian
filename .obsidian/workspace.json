@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2c10d2cab85ed2fa",
+        "id": "978d32966cefa669",
         "type": "tabs",
         "children": [
           {
-            "id": "4c6e0120051932e6",
+            "id": "e413de7a0bd4f4fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Projects/tfidf project.md",
+                "file": "firebase - Copy.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "firebase - Copy"
             }
           }
         ],
@@ -39,8 +41,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -55,7 +60,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,7 +70,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -71,14 +80,16 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 261.5
   },
   "right": {
     "id": "69aa8a2e3e04a628",
@@ -94,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Projects/tfidf project.md",
+                "file": "DSA/BlackBox/rabin crap (string hashing for pattern matching).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for rabin crap (string hashing for pattern matching)"
             }
           },
           {
@@ -111,10 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal Projects/tfidf project.md",
+                "file": "DSA/BlackBox/rabin crap (string hashing for pattern matching).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from rabin crap (string hashing for pattern matching)"
             }
           },
           {
@@ -125,7 +140,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -134,15 +151,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Projects/tfidf project.md"
-              }
+                "file": "Health/sleep.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of sleep"
+            }
+          },
+          {
+            "id": "196fe7ac92a8dbb6",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -154,52 +184,61 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "omnisearch:Omnisearch": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "4c6e0120051932e6",
+  "active": "731fb896995a3c38",
   "lastOpenFiles": [
-    "Personal Projects/Readme.md",
-    "Personal Projects/tfidf project.md",
-    "README.md",
-    "Untitled.md",
+    "GIthub.md",
+    "GIthub - Copy.md",
+    "Health - Copy.md",
     "Health.md",
-    "Personal Projects",
-    "Aptitude/Time and work.md",
-    "Pasted image 20240524170254.png",
-    "DSA/Question List.md",
-    "Aptitude",
-    "DSA/questionsSols/minimum set of intervals after adding a new interval.md",
-    "DSA/questionsSols",
-    "DSA/sliding window.md",
-    "DSA/Vivek DP Series-.md",
-    "DSA/Ideas.md",
-    "Javascript/Calling all apis parrallely.md",
-    "Pasted image 20240518141141.png",
-    "Pasted image 20240518141044.png",
-    "Pasted image 20240518135527.png",
-    "image_127.png",
-    "Pasted image 20240518135508.png",
-    "Pasted image 20240518135501.png",
-    "Pasted image 20240518135418.png",
-    "Pasted image 20240518133926.png",
-    "WhatsApp Image 2024-03-14 at 10.27.58_c2b0f305.jpg",
-    "Road Map to 800k engineer.md",
-    "Nest Js Roadmap-.md",
-    "Pasted image 20240314102253.png.md",
-    "Frontend/RTK/RTK Query.md",
-    "Frontend/RTK/redux store namastereact.pdf",
-    "Frontend/RTK/Custom BaseQuery func.md",
-    "Frontend/RTK/Conditional Fetching.md",
-    "Frontend/RTK/catched.md",
-    "Frontend/React/How to Create an Edit form page.md",
-    "Frontend/MUI/TENSTACK TABLE.md",
-    "Reading List.md",
-    "SQL/Offset.md",
-    "Climeup/Redux types, slices and endpoints.md",
-    "Climeup/Project things.md",
-    "Welcome.md",
-    "redux store namastereact.pdf",
-    "Climeup"
+    "I am overcoming depression - Copy.md",
+    "I am overcoming depression.md",
+    "Bike.md",
+    "Health/sleep.md",
+    "Daily Notes/2025-08-09.md",
+    "Low Level Design/Amazon lld questions.md",
+    "Daily Notes/2025-06-22.md",
+    "Daily Notes/2025-06-21.md",
+    "Low Level Design",
+    "Daily Notes/2025-06-14.md",
+    "Daily Notes - Copy/2025-06-14.md",
+    "Daily Notes - Copy/2025-06-04.md",
+    "Daily Notes - Copy/2025-05-26.md",
+    "Daily Notes - Copy/2025-05-16.md",
+    "Daily Notes - Copy/2025-05-12.md",
+    "Daily Notes - Copy/2025-05-05.md",
+    "Daily Notes - Copy/2025-05-01.md",
+    "Daily Notes - Copy/2025-04-29.md",
+    "Daily Notes - Copy/2025-04-26.md",
+    "Daily Notes - Copy/2025-04-22.md",
+    "Daily Notes - Copy/2025-04-05.md",
+    "Daily Notes - Copy/2025-02-22.md",
+    "Daily Notes - Copy/2025-02-16.md",
+    "Daily Notes - Copy",
+    "cses - Copy",
+    "Computer fundamentals - Copy/dbms/SQL 1 shot.pdf",
+    "Computer fundamentals - Copy/dbms/image_133.png",
+    "Computer fundamentals - Copy/dbms/DBMS in 5 hours.pdf",
+    "Computer fundamentals - Copy/os/image_144.png",
+    "Computer fundamentals - Copy/oops/Low Level Design Notes.pdf.lnk",
+    "Computer fundamentals - Copy/oops/Low Level Design Notes.pdf",
+    "Computer fundamentals - Copy/oops/image_143.png",
+    "Computer fundamentals - Copy/oops/image_142.png",
+    "Computer fundamentals - Copy/dbms",
+    "Computer fundamentals - Copy/os",
+    "Computer fundamentals - Copy/oops",
+    "WhatsApp Image 2024-10-14 at 14.55.55_24099ff2 - Copy.jpg",
+    "WhatsApp Image 2024-03-14 at 10.31.59_713ab532 - Copy.jpg",
+    "WhatsApp Image 2024-03-14 at 10.27.58_c2b0f305 - Copy.jpg",
+    "Untitled - Copy.canvas",
+    "Pasted image 20250521083405 - Copy.png",
+    "Pasted image 20250517235442 - Copy.png",
+    "Pasted image 20250517191004 - Copy.png",
+    "Untitled.canvas"
   ]
 }
