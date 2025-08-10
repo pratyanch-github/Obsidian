@@ -11,14 +11,12 @@
             "id": "e413de7a0bd4f4fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "firebase - Copy.md",
-                "mode": "source",
-                "source": false
+                "file": "{9E24EFD8-0B81-447B-AC0C-244F8E71A9A1}.png"
               },
-              "icon": "lucide-file",
-              "title": "firebase - Copy"
+              "icon": "lucide-image",
+              "title": "{9E24EFD8-0B81-447B-AC0C-244F8E71A9A1}"
             }
           }
         ],
@@ -190,8 +188,10 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "731fb896995a3c38",
+  "active": "e413de7a0bd4f4fa",
   "lastOpenFiles": [
+    "{66AE454A-D3BE-4F59-841A-BCFA378958CC} - Copy.png",
+    "firebase - Copy.md",
     "GIthub.md",
     "GIthub - Copy.md",
     "Health - Copy.md",
@@ -217,8 +217,6 @@
     "Daily Notes - Copy/2025-04-26.md",
     "Daily Notes - Copy/2025-04-22.md",
     "Daily Notes - Copy/2025-04-05.md",
-    "Daily Notes - Copy/2025-02-22.md",
-    "Daily Notes - Copy/2025-02-16.md",
     "Daily Notes - Copy",
     "cses - Copy",
     "Computer fundamentals - Copy/dbms/SQL 1 shot.pdf",

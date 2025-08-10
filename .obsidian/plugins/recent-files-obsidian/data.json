@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "{9E24EFD8-0B81-447B-AC0C-244F8E71A9A1}",
+      "path": "{9E24EFD8-0B81-447B-AC0C-244F8E71A9A1}.png"
+    },
+    {
+      "basename": "{66AE454A-D3BE-4F59-841A-BCFA378958CC} - Copy",
+      "path": "{66AE454A-D3BE-4F59-841A-BCFA378958CC} - Copy.png"
+    },
+    {
       "basename": "firebase - Copy",
       "path": "firebase - Copy.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "DBMS in 5 hours",
       "path": "Computer fundamentals/dbms/DBMS in 5 hours.pdf"
-    },
-    {
-      "basename": "DBMS",
-      "path": "Computer fundamentals/dbms/DBMS.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.canvas"
     }
   ],
   "omittedPaths": [],
